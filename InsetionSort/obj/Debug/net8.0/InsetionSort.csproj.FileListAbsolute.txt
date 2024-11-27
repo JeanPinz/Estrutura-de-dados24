@@ -1,0 +1,14 @@
+c:\Users\431358\Desktop\atividade\InsetionSort\bin\Debug\net8.0\InsetionSort.exe
+C:\Users\431358\Desktop\atividade\InsetionSort\bin\Debug\net8.0\InsetionSort.deps.json
+C:\Users\431358\Desktop\atividade\InsetionSort\bin\Debug\net8.0\InsetionSort.runtimeconfig.json
+c:\Users\431358\Desktop\atividade\InsetionSort\bin\Debug\net8.0\InsetionSort.dll
+c:\Users\431358\Desktop\atividade\InsetionSort\bin\Debug\net8.0\InsetionSort.pdb
+c:\Users\431358\Desktop\atividade\InsetionSort\obj\Debug\net8.0\InsetionSort.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\431358\Desktop\atividade\InsetionSort\obj\Debug\net8.0\InsetionSort.AssemblyInfoInputs.cache
+c:\Users\431358\Desktop\atividade\InsetionSort\obj\Debug\net8.0\InsetionSort.AssemblyInfo.cs
+c:\Users\431358\Desktop\atividade\InsetionSort\obj\Debug\net8.0\InsetionSort.csproj.CoreCompileInputs.cache
+c:\Users\431358\Desktop\atividade\InsetionSort\obj\Debug\net8.0\InsetionSort.dll
+c:\Users\431358\Desktop\atividade\InsetionSort\obj\Debug\net8.0\refint\InsetionSort.dll
+c:\Users\431358\Desktop\atividade\InsetionSort\obj\Debug\net8.0\InsetionSort.pdb
+C:\Users\431358\Desktop\atividade\InsetionSort\obj\Debug\net8.0\InsetionSort.genruntimeconfig.cache
+C:\Users\431358\Desktop\atividade\InsetionSort\obj\Debug\net8.0\ref\InsetionSort.dll
